@@ -4,5 +4,5 @@ if someNumber > 0:
     print("Over zerro")
 if someNumber < 0:
     print("Bellow zerro")
-elif someNumber == 0:
+else someNumber == 0:
     print("zerro")
